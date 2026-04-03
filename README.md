@@ -1,5 +1,4 @@
 <div align="center">
-```markdown
 # 🎬 YT-DLP Simplified
 
 ### *A super simple wrapper for `yt-dlp` that asks for a URL and lets you choose MP4 or MP3 — no complex commands needed.*
@@ -11,7 +10,6 @@
 ![Bash](https://img.shields.io/badge/bash-5.0+-orange)
 
 
----
 </div>
 
 ## ✨ Features
@@ -22,8 +20,6 @@
 - ✅ **Auto-detects your OS** and saves to correct Downloads folder
 - ✅ **Installs `yt-dlp` automatically** if missing
 - ✅ **Zero configuration needed** - just run and go
-
----
 
 ## 📋 Requirements
 
@@ -38,7 +34,7 @@
 
 ## 🚀 Quick Installation
 
-```bash
+```markdown
 git clone https://github.com/JS-TOOLS-LAB/YT-DLP.git
 cd YT-DLP
 chmod +x start.sh

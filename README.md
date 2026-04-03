@@ -267,17 +267,16 @@ Designed & Developed with ❤️ for the open source community
 
 "Make downloading simple, make sharing easier"
 
----
 
-https://img.shields.io/badge/GitHub-JS--TOOLS--LAB-181717?logo=github
-https://img.shields.io/badge/License-MIT-blue.svg
-https://img.shields.io/badge/Made%20with-Bash-1f425f.svg
+
+(https://img.shields.io/badge/GitHub-JS--TOOLS--LAB-181717?logo=github)
+(https://img.shields.io/badge/License-MIT-blue.svg)
+(https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
 
 ⭐ Star this repository if it helped you! ⭐
 
----
+
 
 © 2026 JS-TOOLS-LAB | Mr JV Sibanyoni | All Rights Reserved
 
 </div>
-```

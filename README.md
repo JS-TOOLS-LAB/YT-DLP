@@ -173,7 +173,7 @@ chmod +x start.sh
 
 MIT License
 
-Copyright (c) 2024 JS-TOOLS-LAB
+Copyright (c) 2026 JS-TOOLS-LAB
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

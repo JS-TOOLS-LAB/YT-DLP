@@ -79,7 +79,7 @@ Step 4: Done!
 
 <div align="center">
 
-OS Path
+OS PATHS <br />
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" height="20"> Android (Termux) /sdcard/Downloads <br />
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" height="20"> Windows C:\Users\YourName\Downloads <br />
 <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" height="20"> macOS ~/Downloads <br />

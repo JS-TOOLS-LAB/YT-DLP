@@ -80,10 +80,10 @@ Step 4: Done!
 <div align="center">
 
 OS Path
-<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" height="20"> Android (Termux) /sdcard/Downloads
-<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" height="20"> Windows C:\Users\YourName\Downloads
-<img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" height="20"> macOS ~/Downloads
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="20"> Linux ~/Downloads
+<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" height="20"> Android (Termux) /sdcard/Downloads <br />
+<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" height="20"> Windows C:\Users\YourName\Downloads <br />
+<img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" height="20"> macOS ~/Downloads <br />
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="20"> Linux ~/Downloads <br />
 
 </div>
 

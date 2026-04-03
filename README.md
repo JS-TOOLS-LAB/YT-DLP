@@ -1,6 +1,5 @@
-```markdown
 <div align="center">
-
+```markdown
 # 🎬 YT-DLP Simplified
 
 ### *A super simple wrapper for `yt-dlp` that asks for a URL and lets you choose MP4 or MP3 — no complex commands needed.*
@@ -11,9 +10,9 @@
 ![Python](https://img.shields.io/badge/python-3.7+-yellow)
 ![Bash](https://img.shields.io/badge/bash-5.0+-orange)
 
-</div>
 
 ---
+</div>
 
 ## ✨ Features
 
